@@ -31,7 +31,6 @@ body {
   font-family: "Poppins", sans-serif;
   font-size: var(--main-desktop-font-size);
   background-color: var(--main-desktop-background-color);
-  color: var(--main-text-color);
 }
 
 a {
